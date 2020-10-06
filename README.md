@@ -15,4 +15,4 @@
 - 🌐 portfolio website coming Soon🔜 ... 
 
 ## Connect with me:
-<a title="sangameshwar-melkunde" href="https://linkedin.com/in/gaurav-dabhade"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> 
+<a title="Gaurav-Dabhde" href="https://linkedin.com/in/gaurav-dabhade"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> 
