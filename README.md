@@ -2,7 +2,6 @@
 #### About myself: 
 - 🎓 Undergraduate student of 💻Information Technology. 
 -  ***#Enthusiastic*** Developer. 
-- 📱 Mobile App developer. 
 - ✅**CurrentlyWorkingOn**: 
   - I.📱Mobile App developement(Android💙Recat-Native REST API 🔥Firebase..) 
   - II.💻🌐Full Stack Developement(Mysql Laravel PHP django react...) 
