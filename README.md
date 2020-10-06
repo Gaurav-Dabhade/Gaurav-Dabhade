@@ -14,5 +14,5 @@
 - [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:sangammelkunde@gmail.com 
 - 🌐 portfolio website coming Soon🔜 ... 
 
-## ## Connect with me:
+## Connect with me:
 <a title="sangameshwar-melkunde" href="https://linkedin.com/in/gaurav-dabhade"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> 
