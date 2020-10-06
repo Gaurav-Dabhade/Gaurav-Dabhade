@@ -1,16 +1,19 @@
-### Hi there 👋
+### नमस्ते 🙏 Programmers I'm [Gaurav Dabhade](http://github.com/Sangammeshwarmelkunde) 
+#### About myself: 
+- 🎓 Undergraduate student of 💻Information Technology. 
+-  ***#Enthusiastic*** Developer. 
+- 📱 Mobile App developer. 
+- ✅**CurrentlyWorkingOn**: 
+  - I.📱Mobile App developement(Android💙Recat-Native REST API 🔥Firebase..) 
+  - II.💻🌐Full Stack Developement(Mysql Laravel PHP django react...) 
+- ▶️⏸️**CurrentlyLearning**: 
+  - I.📈Data Science*(Pandas Matplotlib ...) 
+  - II.🤖AI(...) 
+- 🔎 **LookingFor**: 
+  -* 🏠 WFH Internship 
+  -* Job 
+- [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:sangammelkunde@gmail.com 
+- 🌐 portfolio website coming Soon🔜 ... 
 
-<!--
-**Gaurav-Dabhade/Gaurav-Dabhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ## Connect with me:
+<a title="sangameshwar-melkunde" href="https://linkedin.com/in/gaurav-dabhade"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> 
