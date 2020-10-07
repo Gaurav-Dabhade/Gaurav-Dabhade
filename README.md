@@ -11,7 +11,7 @@
 - 🔎 **LookingFor**: 
   -* 🏠 WFH Internship 
   -* Job 
-- [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:sangammelkunde@gmail.com 
+- [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:gauravdabhade20@gmail.com 
 - 🌐 portfolio website coming Soon🔜 ... 
 
 ## Connect with me:
