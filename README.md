@@ -1,4 +1,4 @@
-### Hey 🙏 Programmers I'm [Gaurav Dabhade](http://github.com/Sangammeshwarmelkunde) 
+### Hii 🙏 Programmers I'm [Gaurav Dabhade](http://github.com/Sangammeshwarmelkunde) 
 #### About myself: 
 - 🎓 Undergraduate student of 💻Information Technology. 
 -  ***#Enthusiastic*** Developer. 
