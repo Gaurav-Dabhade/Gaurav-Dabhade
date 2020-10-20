@@ -1,4 +1,4 @@
-### Hi there,I'm [Gaurav]<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
+### Hi there,I'm [Gaurav]<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 #### About myself: 
 - 🎓 I’m currently pursuing my B-Tech degree in Information Technology at [GECA](http://geca.ac.in/);
 -  ***#Enthusiastic*** Developer. 
