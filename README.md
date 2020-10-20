@@ -1,6 +1,6 @@
-### Hii 🙏 Programmers I'm [Gaurav Dabhade](http://github.com/Sangammeshwarmelkunde) 
+### Hi there,I'm [Gaurav]<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
 #### About myself: 
-- 🎓 Undergraduate student of 💻Information Technology. 
+- 🎓 I’m currently pursuing my B-Tech degree in Information Technology at [GECA](http://geca.ac.in/);
 -  ***#Enthusiastic*** Developer. 
 - ✅**CurrentlyWorkingOn**: 
   - I.📱Mobile App developement(Android💙Recat-Native REST API 🔥Firebase..) 
