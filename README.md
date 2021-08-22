@@ -2,12 +2,10 @@
 #### About myself: 
 - 🎓 I’m currently pursuing my B-Tech degree in Information Technology at [GECA](http://geca.ac.in/);
 -  ***#Enthusiastic*** Developer. 
-- ✅**CurrentlyWorkingOn**: 
-  - I.📱Mobile App developement(Android💙Recat-Native REST API 🔥Firebase..) 
-  - II.💻🌐Full Stack Developement(Mysql Laravel PHP django react...) 
+- ✅**CurrentlyWorkingOn**:  
+  - I.💻🌐Full Stack Developement(Mysql Laravel PHP django) 
 - ▶️⏸️**CurrentlyLearning**: 
   - I.📈Data Science*(Pandas Matplotlib ...) 
-  - II.🤖AI(...) 
 - 🔎 **LookingFor**: 
   -* 🏠 WFH Internship 
   -* Job 
