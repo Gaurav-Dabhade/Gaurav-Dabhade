@@ -1,14 +1,12 @@
 ### Hi there,I'm Gaurav <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 #### About myself: 
-- 🎓 I’m currently pursuing my B-Tech degree in Information Technology at [GECA](http://geca.ac.in/);
+- 🎓 I’m currently working at TCS;
 -  ***#Enthusiastic*** Developer. 
 - ✅**CurrentlyWorkingOn**:  
-  - I.💻🌐Full Stack Developement(Mysql Laravel PHP django) 
+  - I.💻🌐Full Stack Developement(Mysql Laravel PHP) 
 - ▶️⏸️**CurrentlyLearning**: 
   - I.📈Data Science*(Pandas Matplotlib ...) 
-- 🔎 **LookingFor**: 
-  -* 🏠 WFH Internship 
-  -* Job 
+ 
 - [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:gauravdabhade20@gmail.com 
 - 🌐 portfolio website coming Soon🔜 ... 
 
