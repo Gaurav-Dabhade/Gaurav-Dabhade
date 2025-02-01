@@ -9,7 +9,7 @@ I specialize in designing and developing **scalable, high-performance web applic
 - 🗄 **Database:** MongoDB (NoSQL, Mongoose)  
 - ☁️ **Architecture:** MERN Stack, Microservices, API Design  
 
-🔹 **I believe in writing clean, maintainable, and scalable code.** Let’s connect and build something impactful together!  
+🔹 **I believe in writing clean, maintainable, and scalable code.**  
 
 ## 📫 How to reach me
 - **Email:** gauravdabhade18@gmail.com 
